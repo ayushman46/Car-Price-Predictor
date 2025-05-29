@@ -2,17 +2,6 @@
 
 A machine learning model for predicting car prices using scikit-learn.
 
-## Setup
-1. Install requirements:
-```bash
-pip install -r requirements.txt
-```
-
-2. Run the predictor:
-```bash
-python car_price_predictor.py
-```
-
 ## Features
 - Multiple ML models comparison
 - Interactive price prediction
