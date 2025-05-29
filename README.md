@@ -34,6 +34,8 @@ The model automatically selects the best performing algorithm from:
 - Gradient Boosting Regressor
 - Linear Regression
 
+![image](https://github.com/user-attachments/assets/1a852f17-d474-4b62-8407-a765d17fadfc)
+
 ## Sample Usage
 ```python
 sample_car = {
